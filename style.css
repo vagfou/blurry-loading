@@ -30,3 +30,9 @@ body {
   font-size: 50px;
   color: #fff;
 }
+
+@media (max-width: 768px) {
+  .bg {
+    background-position: 75%;
+  }
+}
